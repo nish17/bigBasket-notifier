@@ -65,7 +65,7 @@ then do `npm start`
 ## ❤️ Credits
 
 - [Big Basket](https://bigbasket.com)
-- [AWS](https://aws.amazon.com/)
+- [Amazon Web Services (AWS)](https://aws.amazon.com/)
 - [Twilio](https://www.twilio.com/)
 
 ## 🎓 License
