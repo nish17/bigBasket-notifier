@@ -6,7 +6,7 @@
 A watcher that hits the Bigbasket's API for checking the availability of slots.
 Developed during COVID-19 pandemic to notify the user once a slot to buy groceries is available.
 
-### IDEA:
+### 💡 IDEA:
 During the inital days of COVID-19, when it wasn't declared as pandemic by [WHO](https://who.int/), the slots for buying groceries on Big Basket started to decrease, even though one has Big Basket Star Membership. It was very difficult to go out and buy the groceries. So in order to solve this issue, I developed this watcher which keeps checking for the slots every 5 mins, once its available it sends the local SMS on the user's phone saying that slot is available.
 
 It is deployed on [AWS Lambda](https://aws.amazon.com/lambda/) function and configured a cron job to make it run every 10 mins.
