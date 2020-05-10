@@ -19,7 +19,7 @@ which allows me to send sms programmatically.
 
 ### 💻 Steps to enable:
 
-1.  Open Chrome and head over to bigbasket.com and login into your account, click on the basket.
+1.  Open Chrome and head over to [bigbasket.com](https://bigbasket.com) and login into your account, click on the basket.
 
 2.  Open Chrome Dev Tools, toggle device toolbar and make it a mobile view then navigate to networks tab and look for this URL /get-app-data-dynamic
 
