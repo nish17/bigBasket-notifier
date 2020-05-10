@@ -14,6 +14,9 @@ It is deployed on [AWS Lambda](https://aws.amazon.com/lambda/) function and conf
 For sending the SMS on the user's phone, I've used [Twilio](https://www.twilio.com/)
 which allows me to send sms programmatically.
 
+#### Screenshot:
+<img src="/assets/Screenshot1.jpeg" height="500px"/>
+
 ### 💻 Steps to enable:
 
 1.  Open Chrome and head over to bigbasket.com and login into your account, click on basket.
