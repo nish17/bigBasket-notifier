@@ -19,13 +19,13 @@ which allows me to send sms programmatically.
 
 ### 💻 Steps to enable:
 
-1.  Open Chrome and head over to bigbasket.com and login into your account, click on basket.
+1.  Open Chrome and head over to bigbasket.com and login into your account, click on the basket.
 
 2.  Open Chrome Dev Tools, toggle device toolbar and make it a mobile view then navigate to networks tab and look for this URL /get-app-data-dynamic
 
-3.  Right click on it and copy its cURL to the clipboard.
+3.  Right-click on it and copy its cURL to the clipboard.
 
-4.  Import it in the postman and look for headers section.
+4.  Import it in the postman and look for the headers section.
 
 5.  one-by-one copy all the parameters in the config.js file and place it in the root directory of the project.
 
