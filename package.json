@@ -11,7 +11,7 @@
   "author": "Nimesh Solanki <nimesh3536@gmail.com> (https://www.snimesh.com/)",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "twilio": "^3.41.1"
   }
 }
